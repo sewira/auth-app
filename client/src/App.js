@@ -1,6 +1,8 @@
 import { Login, Register } from './pages';
 
 function App() {
+  //coba vscode dibrowser
+
   return (
     <div>
       <Register />
