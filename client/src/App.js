@@ -1,7 +1,7 @@
 import { Login, Register } from './pages';
 
 function App() {
-  //coba vscode dibrowser
+  //coba vscode dibrowser dengan '.'
 
   return (
     <div>
